@@ -1,0 +1,663 @@
+Tbp2ipad
+v7
+r0
+t322235215.462611
+cCheck dependencies
+cProcessInfoPlistFile /Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/bp2ipad.app/Info.plist bp2ipad-Info.plist
+cCompileXIB /Users/davidbachor/Documents/bp2ipad/MainWindow.xib
+cCompileXIB /Users/davidbachor/Documents/bp2ipad/bp2ipadViewController.xib
+cCpResource build/Debug-iphonesimulator/bp2ipad.app/footballgrass.jpg footballgrass.jpg
+cProcessPCH /var/folders/-A/-A8zkKJMFvaLFw5tDD39+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/bp2ipad_Prefix-fiapjjvgafzvvncfeotknpxexejf/bp2ipad_Prefix.pch.gch bp2ipad_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/Objects-normal/i386/main.o /Users/davidbachor/Documents/bp2ipad/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/Objects-normal/i386/bp2ipadAppDelegate.o /Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/Objects-normal/i386/bp2ipadViewController.o /Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/Objects-normal/i386/game.o /Users/davidbachor/Documents/bp2ipad/Classes/game.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/Objects-normal/i386/player.o /Users/davidbachor/Documents/bp2ipad/Classes/player.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/Objects-normal/i386/xyButtonAttributes.o /Users/davidbachor/Documents/bp2ipad/Classes/xyButtonAttributes.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/Objects-normal/i386/block.o /Users/davidbachor/Documents/bp2ipad/Classes/block.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/bp2ipad.app/bp2ipad normal i386
+cGenerateDSYMFile /Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/bp2ipad.app.dSYM /Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/bp2ipad.app/bp2ipad
+cTouch /Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/bp2ipad.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sqlite3.h
+c000000004CC109C90000000000042B54
+t1287719369
+s273236
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/libsqlite3.0.dylib
+c000000004CC109D90000000000092C20
+t1287719385
+s601120
+
+N/Users/davidbachor/Documents/bp2ipad/BART.jpg
+c000000004D2F72F10000000000047958
+t1294955249
+s293208
+
+N/Users/davidbachor/Documents/bp2ipad/BART.png
+c000000004D7D047B000000000011DC92
+t1300038779
+s1170578
+
+N/Users/davidbachor/Documents/bp2ipad/Classes/block.h
+c000000004D828AED0000000000000273
+t1300400877
+s627
+i<Foundation/Foundation.h>
+
+N/Users/davidbachor/Documents/bp2ipad/Classes/block.m
+c000000004D828EB000000000000001F9
+t1300401840
+s505
+i"block.h"
+
+N/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.h
+c000000004D7AC20C0000000000000611
+t1299890700
+s1553
+i<UIKit/UIKit.h>
+i<sqlite3.h>
+i"game.h"
+
+N/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m
+c000000004D84B2890000000000006342
+t1300542089
+s25410
+i"bp2ipadAppDelegate.h"
+i"bp2ipadViewController.h"
+
+N/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.h
+c000000004D8299B10000000000003882
+t1300404657
+s14466
+i<UIKit/UIKit.h>
+i"bp2ipadAppDelegate.h"
+i"xyButtonAttributes.h"
+
+N/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m
+c000000004D82A21F000000000000A37A
+t1300406815
+s41850
+i"bp2ipadViewController.h"
+
+N/Users/davidbachor/Documents/bp2ipad/Classes/game.h
+c000000004D7BDE8A0000000000000B70
+t1299963530
+s2928
+i<Foundation/Foundation.h>
+i"player.h"
+i"block.h"
+
+N/Users/davidbachor/Documents/bp2ipad/Classes/game.m
+c000000004D7BDCB1000000000000078A
+t1299963057
+s1930
+i"game.h"
+
+N/Users/davidbachor/Documents/bp2ipad/Classes/player.h
+c000000004D703A7800000000000002D7
+t1299200632
+s727
+i<Foundation/Foundation.h>
+
+N/Users/davidbachor/Documents/bp2ipad/Classes/player.m
+c000000004D703E78000000000000027C
+t1299201656
+s636
+i"player.h"
+
+N/Users/davidbachor/Documents/bp2ipad/Classes/xyButtonAttributes.h
+c000000004D8284F2000000000000025A
+t1300399346
+s602
+i<Foundation/Foundation.h>
+
+N/Users/davidbachor/Documents/bp2ipad/Classes/xyButtonAttributes.m
+c000000004D828510000000000000010A
+t1300399376
+s266
+i"xyButtonAttributes.h"
+
+N/Users/davidbachor/Documents/bp2ipad/MainWindow.xib
+c000000004D73D83D0000000000004D09
+t1299437629
+s19721
+
+N/Users/davidbachor/Documents/bp2ipad/bp.sqlite
+c000000004D84AF810000000000002000
+t1300541313
+s8192
+
+N/Users/davidbachor/Documents/bp2ipad/bp2ipadViewController.xib
+c000000004D82A1AC00000000000588EE
+t1300406700
+s362734
+
+N/Users/davidbachor/Documents/bp2ipad/bp2ipad_Prefix.pch
+c000000004D73D83D00000000000000B7
+t1299437629
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/bp2ipad.app
+t1300542415
+s272
+
+N/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/bp2ipad.app.dSYM
+t1300542415
+s102
+
+N/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/bp2ipad.app/BART.jpg
+t2
+s0
+
+N/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/bp2ipad.app/BART.png
+t1300038802
+s1170578
+
+N/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/bp2ipad.app/Info.plist
+t1300542412
+s798
+
+N/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/bp2ipad.app/MainWindow.nib
+t1300542413
+s1123
+
+N/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/bp2ipad.app/PkgInfo
+t1300542412
+s8
+
+N/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/bp2ipad.app/bp.sqlite
+t1300541334
+s8192
+
+N/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/bp2ipad.app/bp2ipad
+t1300542415
+s224216
+
+N/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/bp2ipad.app/bp2ipadViewController.nib
+t1300542414
+s31320
+
+N/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/bp2ipad.app/footballgrass.jpg
+t1300542412
+s10864
+
+N/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/bp2ipad.app/footballgrass.png
+t1300044272
+s99372
+
+N/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/bp2ipad.app/footballgrasswithfieldgoal.png
+t1300043926
+s255077
+
+N/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/Objects-normal/i386/block.o
+t1300542415
+s10432
+
+N/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/Objects-normal/i386/bp2ipad.LinkFileList
+c000000004D84B3CC0000000000000378
+t1300542412
+s888
+
+N/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/Objects-normal/i386/bp2ipadAppDelegate.o
+t1300542415
+s117632
+
+N/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/Objects-normal/i386/bp2ipadViewController.o
+t1300542415
+s323232
+
+N/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/Objects-normal/i386/game.o
+t1300542415
+s35452
+
+N/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/Objects-normal/i386/main.o
+t1300542415
+s6300
+
+N/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/Objects-normal/i386/player.o
+t1300542415
+s11688
+
+N/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/Objects-normal/i386/xyButtonAttributes.o
+t1300542415
+s40308
+
+N/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/StaticAnalyzer/normal/i386/block.plist
+t1300542161
+s276
+
+N/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/StaticAnalyzer/normal/i386/bp2ipadAppDelegate.plist
+t1300542161
+s33515
+
+N/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/StaticAnalyzer/normal/i386/bp2ipadViewController.plist
+t1300542161
+s17958
+
+N/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/StaticAnalyzer/normal/i386/game.plist
+t1300542160
+s276
+
+N/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/StaticAnalyzer/normal/i386/main.plist
+t1300542161
+s276
+
+N/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/StaticAnalyzer/normal/i386/player.plist
+t1300542161
+s276
+
+N/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/StaticAnalyzer/normal/i386/xyButtonAttributes.plist
+t1300542161
+s276
+
+N/Users/davidbachor/Documents/bp2ipad/footballgrass.jpg
+c000000004D7D17570000000000002A70
+t1300043607
+s10864
+
+N/Users/davidbachor/Documents/bp2ipad/footballgrass.png
+c000000004D7D19CD000000000001842C
+t1300044237
+s99372
+
+N/Users/davidbachor/Documents/bp2ipad/footballgrasswithfieldgoal.png
+c000000004D7D184C000000000003E465
+t1300043852
+s255077
+
+N/Users/davidbachor/Documents/bp2ipad/main.m
+c000000004D73D83D000000000000015A
+t1299437629
+s346
+i<UIKit/UIKit.h>
+
+N/var/folders/-A/-A8zkKJMFvaLFw5tDD39+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/bp2ipad_Prefix-aqageysjrauzjjafyxsrmkggsees/bp2ipad_Prefix.pch.pth
+t1300542160
+s2784000
+
+N/var/folders/-A/-A8zkKJMFvaLFw5tDD39+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/bp2ipad_Prefix-fiapjjvgafzvvncfeotknpxexejf/bp2ipad_Prefix.pch.gch
+t1300542414
+s15453392
+
+Nbp2ipad-Info.plist
+c000000004D73D83D00000000000004D6
+t1299437629
+s1238
+
+CAnalyze /Users/davidbachor/Documents/bp2ipad/Classes/block.m
+s322234961.042032
+e322234961.089659
+r1
+xAnalyze
+x/Users/davidbachor/Documents/bp2ipad/Classes/block.m
+lSLF07#2@60"Analyze /Users/davidbachor/Documents/bp2ipad/Classes/block.m322234961#322234961#0(0"0(0#0#52"/Users/davidbachor/Documents/bp2ipad/Classes/block.m8614760608#1911"    cd /Users/davidbachor/Documents/bp2ipad    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-generated-files.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-own-target-headers.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-all-target-headers.hmap -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-project-headers.hmap -F/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator -I/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/include -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/DerivedSources/i386 -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/DerivedSources -include /var/folders/-A/-A8zkKJMFvaLFw5tDD39+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/bp2ipad_Prefix-aqageysjrauzjjafyxsrmkggsees/bp2ipad_Prefix.pch --analyze /Users/davidbachor/Documents/bp2ipad/Classes/block.m -o /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/StaticAnalyzer/normal/i386/block.plist0#
+
+CAnalyze /Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m
+s322234960.916544
+e322234961.058760
+r1
+xAnalyze
+x/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m
+o/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m:127:7:{127:11-127:32}: warning: Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'
+o         if ((ret=sqlite3_step(insStmt)) != SQLITE_DONE)
+o              ^   ~~~~~~~~~~~~~~~~~~~~~
+o/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m:88:8:{88:12-88:65}: warning: Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'
+o                 if ((ret=sqlite3_prepare_v2(database, sql, -1, &insStmt, NULL))!=SQLITE_OK)
+o                      ^   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m:182:7:{182:11-182:32}: warning: Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'
+o         if ((ret=sqlite3_step(updStmt)) != SQLITE_DONE)
+o              ^   ~~~~~~~~~~~~~~~~~~~~~
+o/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m:146:8:{146:12-146:65}: warning: Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'
+o                 if ((ret=sqlite3_prepare_v2(database, sql, -1, &updStmt, NULL))!=SQLITE_OK)
+o                      ^   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m:218:2:{218:3-218:5}: warning: Incorrect decrement of the reference count of an object that is not owned at this point by the caller
+o         [fm release];
+o         ^~~
+o/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m:279:3:{279:9-279:28}: warning: Value stored to 'ret' is never read
+o                 ret = (rc == SQLITE_DONE);       
+o                 ^     ~~~~~~~~~~~~~~~~~~~
+o/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m:259:3:{259:9-259:28}: warning: Value stored to 'ret' is never read
+o                 ret = (rc == SQLITE_DONE);       
+o                 ^     ~~~~~~~~~~~~~~~~~~~
+o/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m:458:10:{458:16-458:37}: warning: Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'
+o         while ((ret = sqlite3_step(selStmt)) == SQLITE_ROW)
+o                 ^     ~~~~~~~~~~~~~~~~~~~~~
+o/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m:562:9:{562:21-562:60}: warning: Value stored to 'pinitials' during its initialization is never read
+o                 char *pinitials = (char *)sqlite3_column_text(selStmt, 3);
+o                       ^           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m:557:10:{557:16-557:37}: warning: Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'
+o         while ((ret = sqlite3_step(selStmt)) == SQLITE_ROW)
+o                 ^     ~~~~~~~~~~~~~~~~~~~~~
+o/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m:589:8:{589:12-589:65}: warning: Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'
+o                 if ((ret=sqlite3_prepare_v2(database, sql, -1, &updStmt, NULL))!=SQLITE_OK)
+o                      ^   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m:602:7:{602:11-602:32}: warning: Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'
+o         if ((ret=sqlite3_step(updStmt)) != SQLITE_DONE)
+o              ^   ~~~~~~~~~~~~~~~~~~~~~
+o/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m:638:7:{638:11-638:32}: warning: Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'
+o         if ((ret=sqlite3_step(insStmt)) != SQLITE_DONE)
+o              ^   ~~~~~~~~~~~~~~~~~~~~~
+o/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m:622:8:{622:12-622:65}: warning: Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'
+o                 if ((ret=sqlite3_prepare_v2(database, sql, -1, &insStmt, NULL))!=SQLITE_OK)
+o                      ^   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m:675:10:{675:16-675:37}: warning: Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'
+o         while ((ret = sqlite3_step(selStmt)) == SQLITE_ROW)
+o                 ^     ~~~~~~~~~~~~~~~~~~~~~
+o/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m:710:10:{710:16-710:37}: warning: Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'
+o         while ((ret = sqlite3_step(selStmt)) == SQLITE_ROW)
+o                 ^     ~~~~~~~~~~~~~~~~~~~~~
+o/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m:784:10:{784:16-784:37}: warning: Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'
+o         while ((ret = sqlite3_step(selStmt)) == SQLITE_ROW)
+o                 ^     ~~~~~~~~~~~~~~~~~~~~~
+o/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m:874:7:{874:11-874:32}: warning: Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'
+o         if ((ret=sqlite3_step(updStmt)) != SQLITE_DONE)
+o              ^   ~~~~~~~~~~~~~~~~~~~~~
+o/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m:860:8:{860:12-860:65}: warning: Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'
+o                 if ((ret=sqlite3_prepare_v2(database, sql, -1, &updStmt, NULL))!=SQLITE_OK)
+o                      ^   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o19 warnings generated.
+lSLF07#2@73"Analyze /Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234960#322234961#0(6120"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m:127:7:{127:11-127:32}: warning: Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'         if ((ret=sqlite3_step(insStmt)) != SQLITE_DONE)              ^   ~~~~~~~~~~~~~~~~~~~~~/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m:88:8:{88:12-88:65}: warning: Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'                 if ((ret=sqlite3_prepare_v2(database, sql, -1, &insStmt, NULL))!=SQLITE_OK)                      ^   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m:182:7:{182:11-182:32}: warning: Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'         if ((ret=sqlite3_step(updStmt)) != SQLITE_DONE)              ^   ~~~~~~~~~~~~~~~~~~~~~/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m:146:8:{146:12-146:65}: warning: Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'                 if ((ret=sqlite3_prepare_v2(database, sql, -1, &updStmt, NULL))!=SQLITE_OK)                      ^   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m:218:2:{218:3-218:5}: warning: Incorrect decrement of the reference count of an object that is not owned at this point by the caller         [fm release];         ^~~/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m:279:3:{279:9-279:28}: warning: Value stored to 'ret' is never read                 ret = (rc == SQLITE_DONE);                        ^     ~~~~~~~~~~~~~~~~~~~/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m:259:3:{259:9-259:28}: warning: Value stored to 'ret' is never read                 ret = (rc == SQLITE_DONE);                        ^     ~~~~~~~~~~~~~~~~~~~/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m:458:10:{458:16-458:37}: warning: Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'         while ((ret = sqlite3_step(selStmt)) == SQLITE_ROW)                 ^     ~~~~~~~~~~~~~~~~~~~~~/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m:562:9:{562:21-562:60}: warning: Value stored to 'pinitials' during its initialization is never read                 char *pinitials = (char *)sqlite3_column_text(selStmt, 3);                       ^           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m:557:10:{557:16-557:37}: warning: Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'         while ((ret = sqlite3_step(selStmt)) == SQLITE_ROW)                 ^     ~~~~~~~~~~~~~~~~~~~~~/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m:589:8:{589:12-589:65}: warning: Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'                 if ((ret=sqlite3_prepare_v2(database, sql, -1, &updStmt, NULL))!=SQLITE_OK)                      ^   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m:602:7:{602:11-602:32}: warning: Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'         if ((ret=sqlite3_step(updStmt)) != SQLITE_DONE)              ^   ~~~~~~~~~~~~~~~~~~~~~/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m:638:7:{638:11-638:32}: warning: Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'         if ((ret=sqlite3_step(insStmt)) != SQLITE_DONE)              ^   ~~~~~~~~~~~~~~~~~~~~~/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m:622:8:{622:12-622:65}: warning: Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'                 if ((ret=sqlite3_prepare_v2(database, sql, -1, &insStmt, NULL))!=SQLITE_OK)                      ^   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m:675:10:{675:16-675:37}: warning: Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'         while ((ret = sqlite3_step(selStmt)) == SQLITE_ROW)                 ^     ~~~~~~~~~~~~~~~~~~~~~/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m:710:10:{710:16-710:37}: warning: Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'         while ((ret = sqlite3_step(selStmt)) == SQLITE_ROW)                 ^     ~~~~~~~~~~~~~~~~~~~~~/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m:784:10:{784:16-784:37}: warning: Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'         while ((ret = sqlite3_step(selStmt)) == SQLITE_ROW)                 ^     ~~~~~~~~~~~~~~~~~~~~~/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m:874:7:{874:11-874:32}: warning: Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'         if ((ret=sqlite3_step(updStmt)) != SQLITE_DONE)              ^   ~~~~~~~~~~~~~~~~~~~~~/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m:860:8:{860:12-860:65}: warning: Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'                 if ((ret=sqlite3_prepare_v2(database, sql, -1, &updStmt, NULL))!=SQLITE_OK)                      ^   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~19 warnings generated.19(0@115"Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'322234961#18446744073709551615#0#1(21@115"Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'322234961#18446744073709551615#0#0(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#88#8#0#0#0"1(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#88#12#88#64#115"Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#88#8#0#0#10"Dead store0(22"Dead nested assignment0@115"Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'322234961#18446744073709551615#0#1(21@115"Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'322234961#18446744073709551615#0#0(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#127#7#0#0#0"1(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#127#11#127#31#115"Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#127#7#0#0#10"Dead store0(22"Dead nested assignment0@115"Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'322234961#18446744073709551615#0#1(21@115"Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'322234961#18446744073709551615#0#0(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#146#8#0#0#0"1(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#146#12#146#64#115"Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#146#8#0#0#10"Dead store0(22"Dead nested assignment0@115"Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'322234961#18446744073709551615#0#1(21@115"Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'322234961#18446744073709551615#0#0(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#182#7#0#0#0"1(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#182#11#182#31#115"Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#182#7#0#0#10"Dead store0(22"Dead nested assignment0@101"Incorrect decrement of the reference count of an object that is not owned at this point by the caller322234961#18446744073709551615#0#6(17@0"322234961#18446744073709551615#0#0(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#0#0#0#0#0"0(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#0#0#0#0#1(3@6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#197#2#197#2#6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#205#2#205#2#17@0"322234961#18446744073709551615#0#0(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#0#0#0#0#0"0(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#0#0#0#0#1(3@6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#205#2#205#2#6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#205#22#205#51#21@82"Method returns an Objective-C object with a +0 retain count (non-owning reference)322234961#18446744073709551615#0#0(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#205#22#0#0#0"1(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#205#22#205#51#82"Method returns an Objective-C object with a +0 retain count (non-owning reference)17@0"322234961#18446744073709551615#0#0(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#0#0#0#0#0"0(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#0#0#0#0#1(3@6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#205#22#205#51#6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#208#2#208#2#17@0"322234961#18446744073709551615#0#0(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#0#0#0#0#0"0(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#0#0#0#0#1(3@6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#208#2#208#2#6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#218#2#218#13#21@101"Incorrect decrement of the reference count of an object that is not owned at this point by the caller322234961#18446744073709551615#0#0(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#218#2#0#0#0"1(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#218#3#218#4#101"Incorrect decrement of the reference count of an object that is not owned at this point by the caller6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#218#2#0#0#36"Memory (Core Foundation/Objective-C)0(11"Bad release0@35"Value stored to 'ret' is never read322234961#18446744073709551615#0#1(21@35"Value stored to 'ret' is never read322234961#18446744073709551615#0#0(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#259#3#0#0#0"1(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#259#9#259#27#35"Value stored to 'ret' is never read6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#259#3#0#0#10"Dead store0(15"Dead assignment0@35"Value stored to 'ret' is never read322234961#18446744073709551615#0#1(21@35"Value stored to 'ret' is never read322234961#18446744073709551615#0#0(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#279#3#0#0#0"1(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#279#9#279#27#35"Value stored to 'ret' is never read6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#279#3#0#0#10"Dead store0(15"Dead assignment0@115"Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'322234961#18446744073709551615#0#1(21@115"Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'322234961#18446744073709551615#0#0(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#458#10#0#0#0"1(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#458#16#458#36#115"Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#458#10#0#0#10"Dead store0(22"Dead nested assignment0@115"Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'322234961#18446744073709551615#0#1(21@115"Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'322234961#18446744073709551615#0#0(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#557#10#0#0#0"1(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#557#16#557#36#115"Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#557#10#0#0#10"Dead store0(22"Dead nested assignment0@67"Value stored to 'pinitials' during its initialization is never read322234961#18446744073709551615#0#1(21@67"Value stored to 'pinitials' during its initialization is never read322234961#18446744073709551615#0#0(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#562#9#0#0#0"1(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#562#21#562#59#67"Value stored to 'pinitials' during its initialization is never read6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#562#9#0#0#10"Dead store0(19"Dead initialization0@115"Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'322234961#18446744073709551615#0#1(21@115"Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'322234961#18446744073709551615#0#0(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#589#8#0#0#0"1(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#589#12#589#64#115"Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#589#8#0#0#10"Dead store0(22"Dead nested assignment0@115"Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'322234961#18446744073709551615#0#1(21@115"Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'322234961#18446744073709551615#0#0(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#602#7#0#0#0"1(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#602#11#602#31#115"Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#602#7#0#0#10"Dead store0(22"Dead nested assignment0@115"Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'322234961#18446744073709551615#0#1(21@115"Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'322234961#18446744073709551615#0#0(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#622#8#0#0#0"1(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#622#12#622#64#115"Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#622#8#0#0#10"Dead store0(22"Dead nested assignment0@115"Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'322234961#18446744073709551615#0#1(21@115"Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'322234961#18446744073709551615#0#0(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#638#7#0#0#0"1(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#638#11#638#31#115"Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#638#7#0#0#10"Dead store0(22"Dead nested assignment0@115"Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'322234961#18446744073709551615#0#1(21@115"Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'322234961#18446744073709551615#0#0(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#675#10#0#0#0"1(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#675#16#675#36#115"Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#675#10#0#0#10"Dead store0(22"Dead nested assignment0@115"Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'322234961#18446744073709551615#0#1(21@115"Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'322234961#18446744073709551615#0#0(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#710#10#0#0#0"1(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#710#16#710#36#115"Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#710#10#0#0#10"Dead store0(22"Dead nested assignment0@115"Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'322234961#18446744073709551615#0#1(21@115"Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'322234961#18446744073709551615#0#0(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#784#10#0#0#0"1(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#784#16#784#36#115"Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#784#10#0#0#10"Dead store0(22"Dead nested assignment0@115"Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'322234961#18446744073709551615#0#1(21@115"Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'322234961#18446744073709551615#0#0(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#860#8#0#0#0"1(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#860#12#860#64#115"Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#860#8#0#0#10"Dead store0(22"Dead nested assignment0@115"Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'322234961#18446744073709551615#0#1(21@115"Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'322234961#18446744073709551615#0#0(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#874#7#0#0#0"1(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#874#11#874#31#115"Although the value stored to 'ret' is used in the enclosing expression, the value is never actually read from 'ret'6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#874#7#0#0#10"Dead store0(22"Dead nested assignment0#0#65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m8616359712#1937"    cd /Users/davidbachor/Documents/bp2ipad    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-generated-files.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-own-target-headers.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-all-target-headers.hmap -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-project-headers.hmap -F/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator -I/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/include -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/DerivedSources/i386 -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/DerivedSources -include /var/folders/-A/-A8zkKJMFvaLFw5tDD39+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/bp2ipad_Prefix-aqageysjrauzjjafyxsrmkggsees/bp2ipad_Prefix.pch --analyze /Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m -o /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/StaticAnalyzer/normal/i386/bp2ipadAppDelegate.plist0#
+
+CAnalyze /Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m
+s322234960.917167
+e322234961.204695
+r1
+xAnalyze
+x/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m
+o/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m:506:39: warning: Potential leak of an object allocated on line 506 and stored into 'numberFormatter'
+o         NSNumberFormatter *numberFormatter = [[NSNumberFormatter alloc] init];
+o                                              ^
+o/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m:636:42: warning: Potential leak of an object allocated on line 636 and stored into 'numberFormatter'
+o                                 NSNumberFormatter *numberFormatter = [[NSNumberFormatter alloc] init];
+o                                                                      ^
+o2 warnings generated.
+lSLF07#2@76"Analyze /Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322234960#322234961#0(666"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m:506:39: warning: Potential leak of an object allocated on line 506 and stored into 'numberFormatter'         NSNumberFormatter *numberFormatter = [[NSNumberFormatter alloc] init];                                              ^/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m:636:42: warning: Potential leak of an object allocated on line 636 and stored into 'numberFormatter'                                 NSNumberFormatter *numberFormatter = [[NSNumberFormatter alloc] init];                                                                      ^2 warnings generated.2(0@83"Potential leak of an object allocated on line 506 and stored into 'numberFormatter'322234961#18446744073709551615#0#7(17@0"322234961#18446744073709551615#0#0(6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#0#0#0#0#0"0(6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#0#0#0#0#1(3@6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#479#2#479#2#6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#483#2#483#2#17@0"322234961#18446744073709551615#0#0(6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#0#0#0#0#0"0(6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#0#0#0#0#1(3@6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#483#2#483#2#6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#494#2#494#2#17@0"322234961#18446744073709551615#0#0(6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#0#0#0#0#0"0(6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#0#0#0#0#1(3@6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#494#2#494#2#6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#506#2#506#2#17@0"322234961#18446744073709551615#0#0(6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#0#0#0#0#0"0(6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#0#0#0#0#1(3@6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#506#2#506#2#6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#506#39#506#70#21@78"Method returns an Objective-C object with a +1 retain count (owning reference)322234961#18446744073709551615#0#0(6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#506#39#0#0#0"1(6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#506#39#506#70#78"Method returns an Objective-C object with a +1 retain count (owning reference)17@0"322234961#18446744073709551615#0#0(6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#0#0#0#0#0"0(6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#0#0#0#0#1(3@6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#506#39#506#70#6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#511#6#511#15#21@148"Object allocated on line 506 and stored into 'numberFormatter' is no longer referenced after this point and has a retain count of +1 (object leaked)322234961#18446744073709551615#0#0(6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#511#6#0#0#0"1(6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#511#6#511#15#148"Object allocated on line 506 and stored into 'numberFormatter' is no longer referenced after this point and has a retain count of +1 (object leaked)6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#511#6#0#0#36"Memory (Core Foundation/Objective-C)0(4"Leak0@83"Potential leak of an object allocated on line 636 and stored into 'numberFormatter'322234961#18446744073709551615#0#10(17@0"322234961#18446744073709551615#0#0(6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#0#0#0#0#0"0(6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#0#0#0#0#1(3@6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#617#2#617#2#6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#619#2#619#2#17@0"322234961#18446744073709551615#0#0(6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#0#0#0#0#0"0(6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#0#0#0#0#1(3@6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#619#2#619#2#6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#625#3#625#3#17@0"322234961#18446744073709551615#0#0(6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#0#0#0#0#0"0(6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#0#0#0#0#1(3@6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#625#3#625#3#6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#625#18#625#18#17@0"322234961#18446744073709551615#0#0(6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#0#0#0#0#0"0(6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#0#0#0#0#1(3@6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#625#18#625#18#6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#627#4#627#4#17@0"322234961#18446744073709551615#0#0(6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#0#0#0#0#0"0(6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#0#0#0#0#1(3@6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#627#4#627#4#6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#629#5#629#5#17@0"322234961#18446744073709551615#0#0(6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#0#0#0#0#0"0(6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#0#0#0#0#1(3@6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#629#5#629#5#6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#636#5#636#5#17@0"322234961#18446744073709551615#0#0(6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#0#0#0#0#0"0(6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#0#0#0#0#1(3@6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#636#5#636#5#6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#636#42#636#73#21@78"Method returns an Objective-C object with a +1 retain count (owning reference)322234961#18446744073709551615#0#0(6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#636#42#0#0#0"1(6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#636#42#636#73#78"Method returns an Objective-C object with a +1 retain count (owning reference)17@0"322234961#18446744073709551615#0#0(6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#0#0#0#0#0"0(6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#0#0#0#0#1(3@6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#636#42#636#73#6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#640#5#640#8#21@148"Object allocated on line 636 and stored into 'numberFormatter' is no longer referenced after this point and has a retain count of +1 (object leaked)322234961#18446744073709551615#0#0(6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#640#5#0#0#0"1(6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#640#5#640#8#148"Object allocated on line 636 and stored into 'numberFormatter' is no longer referenced after this point and has a retain count of +1 (object leaked)6@68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322099615#640#5#0#0#36"Memory (Core Foundation/Objective-C)0(4"Leak0#0#68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m8616275328#1943"    cd /Users/davidbachor/Documents/bp2ipad    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-generated-files.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-own-target-headers.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-all-target-headers.hmap -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-project-headers.hmap -F/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator -I/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/include -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/DerivedSources/i386 -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/DerivedSources -include /var/folders/-A/-A8zkKJMFvaLFw5tDD39+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/bp2ipad_Prefix-aqageysjrauzjjafyxsrmkggsees/bp2ipad_Prefix.pch --analyze /Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m -o /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/StaticAnalyzer/normal/i386/bp2ipadViewController.plist0#
+
+CAnalyze /Users/davidbachor/Documents/bp2ipad/Classes/game.m
+s322234960.917773
+e322234960.989160
+r1
+xAnalyze
+x/Users/davidbachor/Documents/bp2ipad/Classes/game.m
+lSLF07#2@59"Analyze /Users/davidbachor/Documents/bp2ipad/Classes/game.m322234960#322234960#0(0"0(0#0#51"/Users/davidbachor/Documents/bp2ipad/Classes/game.m8615878624#1909"    cd /Users/davidbachor/Documents/bp2ipad    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-generated-files.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-own-target-headers.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-all-target-headers.hmap -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-project-headers.hmap -F/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator -I/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/include -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/DerivedSources/i386 -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/DerivedSources -include /var/folders/-A/-A8zkKJMFvaLFw5tDD39+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/bp2ipad_Prefix-aqageysjrauzjjafyxsrmkggsees/bp2ipad_Prefix.pch --analyze /Users/davidbachor/Documents/bp2ipad/Classes/game.m -o /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/StaticAnalyzer/normal/i386/game.plist0#
+
+CAnalyze /Users/davidbachor/Documents/bp2ipad/Classes/player.m
+s322234960.989382
+e322234961.041962
+r1
+xAnalyze
+x/Users/davidbachor/Documents/bp2ipad/Classes/player.m
+lSLF07#2@61"Analyze /Users/davidbachor/Documents/bp2ipad/Classes/player.m322234960#322234961#0(0"0(0#0#53"/Users/davidbachor/Documents/bp2ipad/Classes/player.m8615250816#1913"    cd /Users/davidbachor/Documents/bp2ipad    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-generated-files.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-own-target-headers.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-all-target-headers.hmap -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-project-headers.hmap -F/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator -I/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/include -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/DerivedSources/i386 -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/DerivedSources -include /var/folders/-A/-A8zkKJMFvaLFw5tDD39+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/bp2ipad_Prefix-aqageysjrauzjjafyxsrmkggsees/bp2ipad_Prefix.pch --analyze /Users/davidbachor/Documents/bp2ipad/Classes/player.m -o /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/StaticAnalyzer/normal/i386/player.plist0#
+
+CAnalyze /Users/davidbachor/Documents/bp2ipad/Classes/xyButtonAttributes.m
+s322234961.007206
+e322234961.052950
+r1
+xAnalyze
+x/Users/davidbachor/Documents/bp2ipad/Classes/xyButtonAttributes.m
+lSLF07#2@73"Analyze /Users/davidbachor/Documents/bp2ipad/Classes/xyButtonAttributes.m322234961#322234961#0(0"0(0#0#65"/Users/davidbachor/Documents/bp2ipad/Classes/xyButtonAttributes.m8614943104#1937"    cd /Users/davidbachor/Documents/bp2ipad    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-generated-files.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-own-target-headers.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-all-target-headers.hmap -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-project-headers.hmap -F/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator -I/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/include -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/DerivedSources/i386 -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/DerivedSources -include /var/folders/-A/-A8zkKJMFvaLFw5tDD39+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/bp2ipad_Prefix-aqageysjrauzjjafyxsrmkggsees/bp2ipad_Prefix.pch --analyze /Users/davidbachor/Documents/bp2ipad/Classes/xyButtonAttributes.m -o /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/StaticAnalyzer/normal/i386/xyButtonAttributes.plist0#
+
+CAnalyze /Users/davidbachor/Documents/bp2ipad/main.m
+s322234960.915677
+e322234961.007071
+r1
+xAnalyze
+x/Users/davidbachor/Documents/bp2ipad/main.m
+lSLF07#2@51"Analyze /Users/davidbachor/Documents/bp2ipad/main.m322234960#322234961#0(0"0(0#0#43"/Users/davidbachor/Documents/bp2ipad/main.m8617457792#1901"    cd /Users/davidbachor/Documents/bp2ipad    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-generated-files.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-own-target-headers.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-all-target-headers.hmap -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-project-headers.hmap -F/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator -I/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/include -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/DerivedSources/i386 -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/DerivedSources -include /var/folders/-A/-A8zkKJMFvaLFw5tDD39+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/bp2ipad_Prefix-aqageysjrauzjjafyxsrmkggsees/bp2ipad_Prefix.pch --analyze /Users/davidbachor/Documents/bp2ipad/main.m -o /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/StaticAnalyzer/normal/i386/main.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322235212#322235212#0(0"0(0#1#0"8632523264#0"0#
+
+CCompileC build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/Objects-normal/i386/block.o /Users/davidbachor/Documents/bp2ipad/Classes/block.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322235215.115813
+e322235215.166125
+r1
+xCompileC
+xbuild/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/Objects-normal/i386/block.o
+x/Users/davidbachor/Documents/bp2ipad/Classes/block.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/davidbachor/Documents/bp2ipad/Classes/block.m322235215#322235215#0(0"0(0#0#52"/Users/davidbachor/Documents/bp2ipad/Classes/block.m8629831968#1902"    cd /Users/davidbachor/Documents/bp2ipad    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-generated-files.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-own-target-headers.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-all-target-headers.hmap -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-project-headers.hmap -F/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator -I/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/include -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/DerivedSources/i386 -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/DerivedSources -include /var/folders/-A/-A8zkKJMFvaLFw5tDD39+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/bp2ipad_Prefix-fiapjjvgafzvvncfeotknpxexejf/bp2ipad_Prefix.pch -c /Users/davidbachor/Documents/bp2ipad/Classes/block.m -o /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/Objects-normal/i386/block.o0#
+
+CCompileC build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/Objects-normal/i386/bp2ipadAppDelegate.o /Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322235215.031866
+e322235215.198328
+r1
+xCompileC
+xbuild/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/Objects-normal/i386/bp2ipadAppDelegate.o
+x/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m: In function '-[bp2ipadAppDelegate readPlayers]':
+o/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m:562: warning: unused variable 'pinitials'
+lSLF07#2@73"Compile /Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322235215#322235215#0(224"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m: In function '-[bp2ipadAppDelegate readPlayers]':/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m:562: warning: unused variable 'pinitials'1(22@27"Unused variable 'pinitials'322235215#116#108#0(6@65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322234889#562#0#562#0#19"unused variable '*'0(0#0#65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m8634790272#1928"    cd /Users/davidbachor/Documents/bp2ipad    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-generated-files.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-own-target-headers.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-all-target-headers.hmap -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-project-headers.hmap -F/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator -I/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/include -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/DerivedSources/i386 -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/DerivedSources -include /var/folders/-A/-A8zkKJMFvaLFw5tDD39+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/bp2ipad_Prefix-fiapjjvgafzvvncfeotknpxexejf/bp2ipad_Prefix.pch -c /Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m -o /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/Objects-normal/i386/bp2ipadAppDelegate.o0#
+
+CCompileC build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/Objects-normal/i386/bp2ipadViewController.o /Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322235215.032525
+e322235215.407508
+r1
+xCompileC
+xbuild/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/Objects-normal/i386/bp2ipadViewController.o
+x/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322235215#322235215#0(0"0(0#0#68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m8634192416#1934"    cd /Users/davidbachor/Documents/bp2ipad    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-generated-files.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-own-target-headers.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-all-target-headers.hmap -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-project-headers.hmap -F/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator -I/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/include -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/DerivedSources/i386 -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/DerivedSources -include /var/folders/-A/-A8zkKJMFvaLFw5tDD39+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/bp2ipad_Prefix-fiapjjvgafzvvncfeotknpxexejf/bp2ipad_Prefix.pch -c /Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m -o /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/Objects-normal/i386/bp2ipadViewController.o0#
+
+CCompileC build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/Objects-normal/i386/game.o /Users/davidbachor/Documents/bp2ipad/Classes/game.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322235215.033186
+e322235215.112673
+r1
+xCompileC
+xbuild/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/Objects-normal/i386/game.o
+x/Users/davidbachor/Documents/bp2ipad/Classes/game.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/davidbachor/Documents/bp2ipad/Classes/game.m322235215#322235215#0(0"0(0#0#51"/Users/davidbachor/Documents/bp2ipad/Classes/game.m8633488928#1900"    cd /Users/davidbachor/Documents/bp2ipad    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-generated-files.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-own-target-headers.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-all-target-headers.hmap -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-project-headers.hmap -F/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator -I/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/include -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/DerivedSources/i386 -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/DerivedSources -include /var/folders/-A/-A8zkKJMFvaLFw5tDD39+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/bp2ipad_Prefix-fiapjjvgafzvvncfeotknpxexejf/bp2ipad_Prefix.pch -c /Users/davidbachor/Documents/bp2ipad/Classes/game.m -o /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/Objects-normal/i386/game.o0#
+
+CCompileC build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/Objects-normal/i386/main.o /Users/davidbachor/Documents/bp2ipad/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322235215.031008
+e322235215.071544
+r1
+xCompileC
+xbuild/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/Objects-normal/i386/main.o
+x/Users/davidbachor/Documents/bp2ipad/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/davidbachor/Documents/bp2ipad/main.m322235215#322235215#0(0"0(0#0#43"/Users/davidbachor/Documents/bp2ipad/main.m8635248800#1892"    cd /Users/davidbachor/Documents/bp2ipad    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-generated-files.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-own-target-headers.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-all-target-headers.hmap -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-project-headers.hmap -F/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator -I/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/include -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/DerivedSources/i386 -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/DerivedSources -include /var/folders/-A/-A8zkKJMFvaLFw5tDD39+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/bp2ipad_Prefix-fiapjjvgafzvvncfeotknpxexejf/bp2ipad_Prefix.pch -c /Users/davidbachor/Documents/bp2ipad/main.m -o /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/Objects-normal/i386/main.o0#
+
+CCompileC build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/Objects-normal/i386/player.o /Users/davidbachor/Documents/bp2ipad/Classes/player.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322235215.071622
+e322235215.115745
+r1
+xCompileC
+xbuild/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/Objects-normal/i386/player.o
+x/Users/davidbachor/Documents/bp2ipad/Classes/player.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/davidbachor/Documents/bp2ipad/Classes/player.m322235215#322235215#0(0"0(0#0#53"/Users/davidbachor/Documents/bp2ipad/Classes/player.m8615015872#1904"    cd /Users/davidbachor/Documents/bp2ipad    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-generated-files.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-own-target-headers.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-all-target-headers.hmap -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-project-headers.hmap -F/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator -I/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/include -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/DerivedSources/i386 -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/DerivedSources -include /var/folders/-A/-A8zkKJMFvaLFw5tDD39+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/bp2ipad_Prefix-fiapjjvgafzvvncfeotknpxexejf/bp2ipad_Prefix.pch -c /Users/davidbachor/Documents/bp2ipad/Classes/player.m -o /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/Objects-normal/i386/player.o0#
+
+CCompileC build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/Objects-normal/i386/xyButtonAttributes.o /Users/davidbachor/Documents/bp2ipad/Classes/xyButtonAttributes.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322235215.112757
+e322235215.159575
+r1
+xCompileC
+xbuild/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/Objects-normal/i386/xyButtonAttributes.o
+x/Users/davidbachor/Documents/bp2ipad/Classes/xyButtonAttributes.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/davidbachor/Documents/bp2ipad/Classes/xyButtonAttributes.m322235215#322235215#0(0"0(0#0#65"/Users/davidbachor/Documents/bp2ipad/Classes/xyButtonAttributes.m8630568000#1928"    cd /Users/davidbachor/Documents/bp2ipad    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-generated-files.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-own-target-headers.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-all-target-headers.hmap -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-project-headers.hmap -F/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator -I/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/include -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/DerivedSources/i386 -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/DerivedSources -include /var/folders/-A/-A8zkKJMFvaLFw5tDD39+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/bp2ipad_Prefix-fiapjjvgafzvvncfeotknpxexejf/bp2ipad_Prefix.pch -c /Users/davidbachor/Documents/bp2ipad/Classes/xyButtonAttributes.m -o /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/Objects-normal/i386/xyButtonAttributes.o0#
+
+CCompileXIB /Users/davidbachor/Documents/bp2ipad/MainWindow.xib
+s322235212.825016
+e322235213.630153
+r1
+xCompileXIB
+x/Users/davidbachor/Documents/bp2ipad/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib322235212#322235213#0(0"0(0#0#51"/Users/davidbachor/Documents/bp2ipad/MainWindow.xib8634865152#564"    cd /Users/davidbachor/Documents/bp2ipad    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/bp2ipad.app/MainWindow.nib /Users/davidbachor/Documents/bp2ipad/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/davidbachor/Documents/bp2ipad/bp2ipadViewController.xib
+s322235212.825560
+e322235214.484867
+r1
+xCompileXIB
+x/Users/davidbachor/Documents/bp2ipad/bp2ipadViewController.xib
+lSLF07#2@36"CompileXIB bp2ipadViewController.xib322235212#322235214#0(0"0(0#0#62"/Users/davidbachor/Documents/bp2ipad/bp2ipadViewController.xib8634703008#586"    cd /Users/davidbachor/Documents/bp2ipad    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/bp2ipad.app/bp2ipadViewController.nib /Users/davidbachor/Documents/bp2ipad/bp2ipadViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/bp2ipad.app/BART.jpg BART.jpg
+r0
+
+CCpResource build/Debug-iphonesimulator/bp2ipad.app/BART.png BART.png
+s321731602.916761
+e321731602.923727
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/bp2ipad.app/BART.png
+xBART.png
+lSLF07#2@13"Copy BART.png321731602#321731602#0(0"0(0#0#45"/Users/davidbachor/Documents/bp2ipad/BART.png32651513917341812#460"    cd /Users/davidbachor/Documents/bp2ipad    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/davidbachor/Documents/bp2ipad/BART.png /Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/bp2ipad.app0#
+
+CCpResource build/Debug-iphonesimulator/bp2ipad.app/bp.sqlite bp.sqlite
+s322234134.007430
+e322234134.100448
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/bp2ipad.app/bp.sqlite
+xbp.sqlite
+lSLF07#2@14"Copy bp.sqlite322234134#322234134#0(0"0(0#0#46"/Users/davidbachor/Documents/bp2ipad/bp.sqlite32651513917341812#461"    cd /Users/davidbachor/Documents/bp2ipad    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/davidbachor/Documents/bp2ipad/bp.sqlite /Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/bp2ipad.app0#
+
+CCpResource build/Debug-iphonesimulator/bp2ipad.app/footballgrass.jpg footballgrass.jpg
+s322235212.826044
+e322235212.849526
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/bp2ipad.app/footballgrass.jpg
+xfootballgrass.jpg
+lSLF07#2@22"Copy footballgrass.jpg322235212#322235212#0(0"0(0#0#54"/Users/davidbachor/Documents/bp2ipad/footballgrass.jpg8634544768#469"    cd /Users/davidbachor/Documents/bp2ipad    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/davidbachor/Documents/bp2ipad/footballgrass.jpg /Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/bp2ipad.app0#
+
+CCpResource build/Debug-iphonesimulator/bp2ipad.app/footballgrass.png footballgrass.png
+s321737072.796701
+e321737072.800441
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/bp2ipad.app/footballgrass.png
+xfootballgrass.png
+lSLF07#2@22"Copy footballgrass.png321737072#321737072#0(0"0(0#0#54"/Users/davidbachor/Documents/bp2ipad/footballgrass.png8629686560#469"    cd /Users/davidbachor/Documents/bp2ipad    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/davidbachor/Documents/bp2ipad/footballgrass.png /Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/bp2ipad.app0#
+
+CCpResource build/Debug-iphonesimulator/bp2ipad.app/footballgrasswithfieldgoal.png footballgrasswithfieldgoal.png
+s321736726.810488
+e321736726.814313
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/bp2ipad.app/footballgrasswithfieldgoal.png
+xfootballgrasswithfieldgoal.png
+lSLF07#2@35"Copy footballgrasswithfieldgoal.png321736726#321736727#0(0"0(0#0#67"/Users/davidbachor/Documents/bp2ipad/footballgrasswithfieldgoal.png8625563680#482"    cd /Users/davidbachor/Documents/bp2ipad    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/davidbachor/Documents/bp2ipad/footballgrasswithfieldgoal.png /Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/bp2ipad.app0#
+
+CGenerateDSYMFile /Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/bp2ipad.app.dSYM /Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/bp2ipad.app/bp2ipad
+s322235215.440560
+e322235215.460485
+r1
+xGenerateDSYMFile
+x/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/bp2ipad.app.dSYM
+x/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/bp2ipad.app/bp2ipad
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/bp2ipad.app.dSYM build/Debug-iphonesimulator/bp2ipad.app/bp2ipad322235215#322235215#0(0"0(0#0#84"/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/bp2ipad.app/bp2ipad8634571104#377"    cd /Users/davidbachor/Documents/bp2ipad    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/bp2ipad.app/bp2ipad -o /Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/bp2ipad.app.dSYM0#
+
+CLd /Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/bp2ipad.app/bp2ipad normal i386
+s322235215.407581
+e322235215.440486
+r1
+xLd
+x/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/bp2ipad.app/bp2ipad
+xnormal
+xi386
+lSLF07#2@89"Link /Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/bp2ipad.app/bp2ipad322235215#322235215#0(0"0(0#0#0"8635251488#902"    cd /Users/davidbachor/Documents/bp2ipad    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator -F/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator -filelist /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/Objects-normal/i386/bp2ipad.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -lsqlite3.0 -o /Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/bp2ipad.app/bp2ipad0#
+
+CProcessInfoPlistFile /Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/bp2ipad.app/Info.plist bp2ipad-Info.plist
+s322235212.821740
+e322235212.824952
+r1
+xProcessInfoPlistFile
+x/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/bp2ipad.app/Info.plist
+xbp2ipad-Info.plist
+lSLF07#2@26"Process bp2ipad-Info.plist322235212#322235212#0(0"0(0#0#55"/Users/davidbachor/Documents/bp2ipad/bp2ipad-Info.plist8613309024#473"    cd /Users/davidbachor/Documents/bp2ipad    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility bp2ipad-Info.plist -genpkginfo /Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/bp2ipad.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/bp2ipad.app/Info.plist0#
+
+CProcessPCH /var/folders/-A/-A8zkKJMFvaLFw5tDD39+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/bp2ipad_Prefix-aqageysjrauzjjafyxsrmkggsees/bp2ipad_Prefix.pch.pth bp2ipad_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s322234959.382567
+e322234960.915028
+r1
+xProcessPCH
+x/var/folders/-A/-A8zkKJMFvaLFw5tDD39+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/bp2ipad_Prefix-aqageysjrauzjjafyxsrmkggsees/bp2ipad_Prefix.pch.pth
+xbp2ipad_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@29"Precompile bp2ipad_Prefix.pch322234959#322234960#0(0"0(0#0#55"/Users/davidbachor/Documents/bp2ipad/bp2ipad_Prefix.pch8608945632#1777"    cd /Users/davidbachor/Documents/bp2ipad    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-generated-files.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-own-target-headers.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-all-target-headers.hmap -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-project-headers.hmap -F/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator -I/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/include -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/DerivedSources/i386 -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/DerivedSources -c /Users/davidbachor/Documents/bp2ipad/bp2ipad_Prefix.pch -o /var/folders/-A/-A8zkKJMFvaLFw5tDD39+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/bp2ipad_Prefix-aqageysjrauzjjafyxsrmkggsees/bp2ipad_Prefix.pch.pth0#
+
+CProcessPCH /var/folders/-A/-A8zkKJMFvaLFw5tDD39+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/bp2ipad_Prefix-fiapjjvgafzvvncfeotknpxexejf/bp2ipad_Prefix.pch.gch bp2ipad_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s322235214.485052
+e322235215.030929
+r1
+xProcessPCH
+x/var/folders/-A/-A8zkKJMFvaLFw5tDD39+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/bp2ipad_Prefix-fiapjjvgafzvvncfeotknpxexejf/bp2ipad_Prefix.pch.gch
+xbp2ipad_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile bp2ipad_Prefix.pch322235214#322235215#0(0"0(0#0#55"/Users/davidbachor/Documents/bp2ipad/bp2ipad_Prefix.pch8635393376#1786"    cd /Users/davidbachor/Documents/bp2ipad    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-generated-files.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-own-target-headers.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-all-target-headers.hmap -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/bp2ipad-project-headers.hmap -F/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator -I/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/include -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/DerivedSources/i386 -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphonesimulator/bp2ipad.build/DerivedSources -c /Users/davidbachor/Documents/bp2ipad/bp2ipad_Prefix.pch -o /var/folders/-A/-A8zkKJMFvaLFw5tDD39+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/bp2ipad_Prefix-fiapjjvgafzvvncfeotknpxexejf/bp2ipad_Prefix.pch.gch0#
+
+CTouch /Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/bp2ipad.app
+s322235215.460549
+e322235215.462585
+r1
+xTouch
+x/Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/bp2ipad.app
+lSLF07#2@82"Touch /Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/bp2ipad.app322235215#322235215#0(0"0(0#0#0"8634265792#274"    cd /Users/davidbachor/Documents/bp2ipad    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/davidbachor/Documents/bp2ipad/build/Debug-iphonesimulator/bp2ipad.app0#
+

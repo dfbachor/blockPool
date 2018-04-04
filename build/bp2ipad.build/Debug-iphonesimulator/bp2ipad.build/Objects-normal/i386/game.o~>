@@ -1,0 +1,36 @@
+/Users/davidbachor/Documents/bp2ipad/Classes/game.m:25: error: no declaration of property 'xq1' found in the interface
+/Users/davidbachor/Documents/bp2ipad/Classes/game.m:25: error: no declaration of property 'xq2' found in the interface
+/Users/davidbachor/Documents/bp2ipad/Classes/game.m:25: error: no declaration of property 'xq3' found in the interface
+/Users/davidbachor/Documents/bp2ipad/Classes/game.m:25: error: no declaration of property 'xq4' found in the interface
+/Users/davidbachor/Documents/bp2ipad/Classes/game.m:25: error: no declaration of property 'yq1' found in the interface
+/Users/davidbachor/Documents/bp2ipad/Classes/game.m:25: error: no declaration of property 'yq2' found in the interface
+/Users/davidbachor/Documents/bp2ipad/Classes/game.m:25: error: no declaration of property 'yq3' found in the interface
+/Users/davidbachor/Documents/bp2ipad/Classes/game.m:25: error: no declaration of property 'yq4' found in the interface
+/Users/davidbachor/Documents/bp2ipad/Classes/game.m: In function '-[game initWithGame:gName:xTeam:yTeam:gdate:wager:locked:x0:x1:x2:x3:x4:x5:x6:x7:x8:x9:y0:y1:y2:y3:y4:y5:y6:y7:y8:y9:xq1:xq2:xq3:xq4:yq1:yq2:yq3:yq4:gplayers:gblocks:]':
+/Users/davidbachor/Documents/bp2ipad/Classes/game.m:93: error: request for member 'xq1' in something not a structure or union
+/Users/davidbachor/Documents/bp2ipad/Classes/game.m:94: error: request for member 'xq2' in something not a structure or union
+/Users/davidbachor/Documents/bp2ipad/Classes/game.m:95: error: request for member 'xq3' in something not a structure or union
+/Users/davidbachor/Documents/bp2ipad/Classes/game.m:96: error: request for member 'xq4' in something not a structure or union
+/Users/davidbachor/Documents/bp2ipad/Classes/game.m:97: error: request for member 'yq1' in something not a structure or union
+/Users/davidbachor/Documents/bp2ipad/Classes/game.m:98: error: request for member 'yq2' in something not a structure or union
+/Users/davidbachor/Documents/bp2ipad/Classes/game.m:99: error: request for member 'yq3' in something not a structure or union
+/Users/davidbachor/Documents/bp2ipad/Classes/game.m:100: error: request for member 'yq4' in something not a structure or union
+/Users/davidbachor/Documents/bp2ipad/Classes/game.m: At top level:
+/Users/davidbachor/Documents/bp2ipad/Classes/game.m:113: warning: property 'xQ1' requires method '-xQ1' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/davidbachor/Documents/bp2ipad/Classes/game.m:113: warning: property 'xQ1' requires the method 'setXQ1:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/davidbachor/Documents/bp2ipad/Classes/game.m:113: warning: property 'xQ2' requires method '-xQ2' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/davidbachor/Documents/bp2ipad/Classes/game.m:113: warning: property 'xQ2' requires the method 'setXQ2:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/davidbachor/Documents/bp2ipad/Classes/game.m:113: warning: property 'xQ3' requires method '-xQ3' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/davidbachor/Documents/bp2ipad/Classes/game.m:113: warning: property 'xQ3' requires the method 'setXQ3:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/davidbachor/Documents/bp2ipad/Classes/game.m:113: warning: property 'xQ4' requires method '-xQ4' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/davidbachor/Documents/bp2ipad/Classes/game.m:113: warning: property 'xQ4' requires the method 'setXQ4:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/davidbachor/Documents/bp2ipad/Classes/game.m:113: warning: property 'yQ1' requires method '-yQ1' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/davidbachor/Documents/bp2ipad/Classes/game.m:113: warning: property 'yQ1' requires the method 'setYQ1:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/davidbachor/Documents/bp2ipad/Classes/game.m:113: warning: property 'yQ2' requires method '-yQ2' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/davidbachor/Documents/bp2ipad/Classes/game.m:113: warning: property 'yQ2' requires the method 'setYQ2:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/davidbachor/Documents/bp2ipad/Classes/game.m:113: warning: property 'yQ3' requires method '-yQ3' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/davidbachor/Documents/bp2ipad/Classes/game.m:113: warning: property 'yQ3' requires the method 'setYQ3:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/davidbachor/Documents/bp2ipad/Classes/game.m:113: warning: property 'yQ4' requires method '-yQ4' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/davidbachor/Documents/bp2ipad/Classes/game.m:113: warning: property 'yQ4' requires the method 'setYQ4:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/davidbachor/Documents/bp2ipad/Classes/game.m:113: warning: incomplete implementation of class 'game'
+/Users/davidbachor/Documents/bp2ipad/Classes/game.m:113: warning: method definition for '-initWithGame:gName:xTeam:yTeam:gdate:wager:locked:x0:x1:x2:x3:x4:x5:x6:x7:x8:x9:y0:y1:y2:y3:y4:y5:y6:y7:y8:y9:gplayers:gblocks:' not found

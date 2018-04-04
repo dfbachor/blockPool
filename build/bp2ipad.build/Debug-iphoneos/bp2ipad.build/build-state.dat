@@ -1,0 +1,504 @@
+Tbp2ipad
+v7
+r0
+t322451327.454244
+cCheck dependencies
+cCpResource build/Debug-iphoneos/bp2ipad.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app/Info.plist bp2ipad-Info.plist
+cCompileXIB /Users/davidbachor/Documents/bp2ipad/MainWindow.xib
+cCompileXIB /Users/davidbachor/Documents/bp2ipad/bp2ipadViewController.xib
+cCpResource build/Debug-iphoneos/bp2ipad.app/footballgrass.jpg footballgrass.jpg
+cCpResource build/Debug-iphoneos/bp2ipad.app/bp.sqlite bp.sqlite
+cProcessPCH /var/folders/-A/-A8zkKJMFvaLFw5tDD39+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/bp2ipad_Prefix-fwgogqnqpfzhmscehmiyqvekfumq/bp2ipad_Prefix.pch.gch bp2ipad_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/Objects-normal/armv7/main.o /Users/davidbachor/Documents/bp2ipad/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/Objects-normal/armv7/bp2ipadAppDelegate.o /Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/Objects-normal/armv7/bp2ipadViewController.o /Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/Objects-normal/armv7/game.o /Users/davidbachor/Documents/bp2ipad/Classes/game.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/Objects-normal/armv7/player.o /Users/davidbachor/Documents/bp2ipad/Classes/player.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/Objects-normal/armv7/xyButtonAttributes.o /Users/davidbachor/Documents/bp2ipad/Classes/xyButtonAttributes.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/Objects-normal/armv7/block.o /Users/davidbachor/Documents/bp2ipad/Classes/block.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app/bp2ipad normal armv7
+cGenerateDSYMFile /Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app.dSYM /Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app/bp2ipad
+cProcessProductPackaging "/Users/davidbachor/Library/MobileDevice/Provisioning Profiles/55678E32-4298-4960-AD63-0F588D609B67.mobileprovision" /Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app/embedded.mobileprovision
+cTouch /Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/bp2ipad.xcent
+cCodeSign /Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+c000000004CB3DFCF00000000000001A7
+t1286856655
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/sqlite3.h
+c000000004CC10A9E0000000000042B54
+t1287719582
+s273236
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/libsqlite3.0.dylib
+c000000004CC10AB400000000000CE100
+t1287719604
+s844032
+
+N/Users/davidbachor/Documents/bp2ipad/Classes/block.h
+c000000004D828AED0000000000000273
+t1300400877
+s627
+i<Foundation/Foundation.h>
+
+N/Users/davidbachor/Documents/bp2ipad/Classes/block.m
+c000000004D828EB000000000000001F9
+t1300401840
+s505
+i"block.h"
+
+N/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.h
+c000000004D7AC20C0000000000000611
+t1299890700
+s1553
+i<UIKit/UIKit.h>
+i<sqlite3.h>
+i"game.h"
+
+N/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m
+c000000004D87FF970000000000006A13
+t1300758423
+s27155
+i"bp2ipadAppDelegate.h"
+i"bp2ipadViewController.h"
+
+N/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.h
+c000000004D87EE4E0000000000003E08
+t1300753998
+s15880
+i<UIKit/UIKit.h>
+i"bp2ipadAppDelegate.h"
+i"xyButtonAttributes.h"
+
+N/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m
+c000000004D87FC73000000000000BF0E
+t1300757619
+s48910
+i"bp2ipadViewController.h"
+
+N/Users/davidbachor/Documents/bp2ipad/Classes/game.h
+c000000004D87F9620000000000000E52
+t1300756834
+s3666
+i<Foundation/Foundation.h>
+i"player.h"
+i"block.h"
+
+N/Users/davidbachor/Documents/bp2ipad/Classes/game.m
+c000000004D87F964000000000000093D
+t1300756836
+s2365
+i"game.h"
+
+N/Users/davidbachor/Documents/bp2ipad/Classes/player.h
+c000000004D87DD96000000000000033B
+t1300749718
+s827
+i<Foundation/Foundation.h>
+
+N/Users/davidbachor/Documents/bp2ipad/Classes/player.m
+c000000004D87DDB80000000000000317
+t1300749752
+s791
+i"player.h"
+
+N/Users/davidbachor/Documents/bp2ipad/Classes/xyButtonAttributes.h
+c000000004D8284F2000000000000025A
+t1300399346
+s602
+i<Foundation/Foundation.h>
+
+N/Users/davidbachor/Documents/bp2ipad/Classes/xyButtonAttributes.m
+c000000004D828510000000000000010A
+t1300399376
+s266
+i"xyButtonAttributes.h"
+
+N/Users/davidbachor/Documents/bp2ipad/MainWindow.xib
+c000000004D73D83D0000000000004D09
+t1299437629
+s19721
+
+N/Users/davidbachor/Documents/bp2ipad/bp.sqlite
+c000000004D84AF810000000000002000
+t1300541313
+s8192
+
+N/Users/davidbachor/Documents/bp2ipad/bp2ipadViewController.xib
+c000000004D87F5A9000000000005F834
+t1300755881
+s391220
+
+N/Users/davidbachor/Documents/bp2ipad/bp2ipad_Prefix.pch
+c000000004D73D83D00000000000000B7
+t1299437629
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app
+t1300758527
+s442
+
+N/Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app.dSYM
+t1300758527
+s102
+
+N/Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app/Info.plist
+t1300754901
+s988
+
+N/Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app/MainWindow.nib
+t1300754901
+s1123
+
+N/Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app/PkgInfo
+t1300754901
+s8
+
+N/Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app/ResourceRules.plist
+t1300754901
+s485
+
+N/Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app/bp.sqlite
+t1300754901
+s8192
+
+N/Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app/bp2ipad
+t1300758527
+s245184
+
+N/Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app/bp2ipadViewController.nib
+t1300755948
+s33375
+
+N/Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app/embedded.mobileprovision
+t1300754904
+s7229
+
+N/Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app/footballgrass.jpg
+t1300754901
+s10864
+
+N/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/Objects-normal/armv7/block.o
+t1300754903
+s10420
+
+N/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/Objects-normal/armv7/bp2ipad.LinkFileList
+c000000004D87F1D5000000000000034E
+t1300754901
+s846
+
+N/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/Objects-normal/armv7/bp2ipadAppDelegate.o
+t1300758525
+s117080
+
+N/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/Objects-normal/armv7/bp2ipadViewController.o
+t1300758526
+s324732
+
+N/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/Objects-normal/armv7/game.o
+t1300758525
+s40280
+
+N/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/Objects-normal/armv7/main.o
+t1300754903
+s6428
+
+N/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/Objects-normal/armv7/player.o
+t1300754903
+s12628
+
+N/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/Objects-normal/armv7/xyButtonAttributes.o
+t1300754903
+s40144
+
+N/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/bp2ipad.xcent
+t1300754904
+s420
+
+N/Users/davidbachor/Documents/bp2ipad/footballgrass.jpg
+c000000004D7D17570000000000002A70
+t1300043607
+s10864
+
+N/Users/davidbachor/Documents/bp2ipad/main.m
+c000000004D73D83D000000000000015A
+t1299437629
+s346
+i<UIKit/UIKit.h>
+
+N/Users/davidbachor/Library/MobileDevice/Provisioning Profiles/4FDC23B0-0BD2-4C92-A2C7-A5A937D2A6B3.mobileprovision
+c000000004D5FF9900000000000001C0A
+t1298135440
+s7178
+
+N/Users/davidbachor/Library/MobileDevice/Provisioning Profiles/55678E32-4298-4960-AD63-0F588D609B67.mobileprovision
+c000000004D87F09F0000000000001C3D
+t1300754591
+s7229
+
+N/var/folders/-A/-A8zkKJMFvaLFw5tDD39+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/bp2ipad_Prefix-fwgogqnqpfzhmscehmiyqvekfumq/bp2ipad_Prefix.pch.gch
+t1300754903
+s10446552
+
+Nbp2ipad-Info.plist
+c000000004D73D83D00000000000004D6
+t1299437629
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322451325#322451325#0(0"0(0#1#0"8641694848#0"0#
+
+CCodeSign /Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app
+s322451327.331814
+e322451327.454204
+r1
+xCodeSign
+x/Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app
+lSLF07#2@41"CodeSign build/Debug-iphoneos/bp2ipad.app322451327#322451327#0(0"0(0#0#69"/Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app8618982432#640"    cd /Users/davidbachor/Documents/bp2ipad    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: David Bachor (AS5C7B3QB3)" --resource-rules=/Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app/ResourceRules.plist --entitlements /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/bp2ipad.xcent /Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app0#
+
+CCompileC build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/Objects-normal/armv7/block.o /Users/davidbachor/Documents/bp2ipad/Classes/block.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s322447703.578034
+e322447703.639377
+r1
+xCompileC
+xbuild/bp2ipad.build/Debug-iphoneos/bp2ipad.build/Objects-normal/armv7/block.o
+x/Users/davidbachor/Documents/bp2ipad/Classes/block.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/davidbachor/Documents/bp2ipad/Classes/block.m322447703#322447703#0(0"0(0#0#52"/Users/davidbachor/Documents/bp2ipad/Classes/block.m8617923232#1712"    cd /Users/davidbachor/Documents/bp2ipad    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/bp2ipad-generated-files.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/bp2ipad-own-target-headers.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/bp2ipad-all-target-headers.hmap -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/bp2ipad-project-headers.hmap -F/Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos -I/Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/include -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/DerivedSources/armv7 -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/DerivedSources -include /var/folders/-A/-A8zkKJMFvaLFw5tDD39+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/bp2ipad_Prefix-fwgogqnqpfzhmscehmiyqvekfumq/bp2ipad_Prefix.pch -c /Users/davidbachor/Documents/bp2ipad/Classes/block.m -o /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/Objects-normal/armv7/block.o0#
+
+CCompileC build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/Objects-normal/armv7/bp2ipadAppDelegate.o /Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s322451325.578401
+e322451325.987167
+r1
+xCompileC
+xbuild/bp2ipad.build/Debug-iphoneos/bp2ipad.build/Objects-normal/armv7/bp2ipadAppDelegate.o
+x/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m322451325#322451325#0(0"0(0#0#65"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m8655512512#1738"    cd /Users/davidbachor/Documents/bp2ipad    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/bp2ipad-generated-files.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/bp2ipad-own-target-headers.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/bp2ipad-all-target-headers.hmap -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/bp2ipad-project-headers.hmap -F/Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos -I/Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/include -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/DerivedSources/armv7 -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/DerivedSources -include /var/folders/-A/-A8zkKJMFvaLFw5tDD39+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/bp2ipad_Prefix-fwgogqnqpfzhmscehmiyqvekfumq/bp2ipad_Prefix.pch -c /Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadAppDelegate.m -o /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/Objects-normal/armv7/bp2ipadAppDelegate.o0#
+
+CCompileC build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/Objects-normal/armv7/bp2ipadViewController.o /Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s322451325.579120
+e322451326.300667
+r1
+xCompileC
+xbuild/bp2ipad.build/Debug-iphoneos/bp2ipad.build/Objects-normal/armv7/bp2ipadViewController.o
+x/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m322451325#322451326#0(0"0(0#0#68"/Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m8655157248#1744"    cd /Users/davidbachor/Documents/bp2ipad    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/bp2ipad-generated-files.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/bp2ipad-own-target-headers.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/bp2ipad-all-target-headers.hmap -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/bp2ipad-project-headers.hmap -F/Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos -I/Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/include -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/DerivedSources/armv7 -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/DerivedSources -include /var/folders/-A/-A8zkKJMFvaLFw5tDD39+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/bp2ipad_Prefix-fwgogqnqpfzhmscehmiyqvekfumq/bp2ipad_Prefix.pch -c /Users/davidbachor/Documents/bp2ipad/Classes/bp2ipadViewController.m -o /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/Objects-normal/armv7/bp2ipadViewController.o0#
+
+CCompileC build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/Objects-normal/armv7/game.o /Users/davidbachor/Documents/bp2ipad/Classes/game.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s322451325.579792
+e322451325.888266
+r1
+xCompileC
+xbuild/bp2ipad.build/Debug-iphoneos/bp2ipad.build/Objects-normal/armv7/game.o
+x/Users/davidbachor/Documents/bp2ipad/Classes/game.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/davidbachor/Documents/bp2ipad/Classes/game.m322451325#322451325#0(0"0(0#0#51"/Users/davidbachor/Documents/bp2ipad/Classes/game.m8654444992#1710"    cd /Users/davidbachor/Documents/bp2ipad    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/bp2ipad-generated-files.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/bp2ipad-own-target-headers.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/bp2ipad-all-target-headers.hmap -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/bp2ipad-project-headers.hmap -F/Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos -I/Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/include -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/DerivedSources/armv7 -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/DerivedSources -include /var/folders/-A/-A8zkKJMFvaLFw5tDD39+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/bp2ipad_Prefix-fwgogqnqpfzhmscehmiyqvekfumq/bp2ipad_Prefix.pch -c /Users/davidbachor/Documents/bp2ipad/Classes/game.m -o /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/Objects-normal/armv7/game.o0#
+
+CCompileC build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/Objects-normal/armv7/main.o /Users/davidbachor/Documents/bp2ipad/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s322447703.460882
+e322447703.525903
+r1
+xCompileC
+xbuild/bp2ipad.build/Debug-iphoneos/bp2ipad.build/Objects-normal/armv7/main.o
+x/Users/davidbachor/Documents/bp2ipad/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/davidbachor/Documents/bp2ipad/main.m322447703#322447703#0(0"0(0#0#43"/Users/davidbachor/Documents/bp2ipad/main.m8639875264#1702"    cd /Users/davidbachor/Documents/bp2ipad    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/bp2ipad-generated-files.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/bp2ipad-own-target-headers.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/bp2ipad-all-target-headers.hmap -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/bp2ipad-project-headers.hmap -F/Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos -I/Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/include -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/DerivedSources/armv7 -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/DerivedSources -include /var/folders/-A/-A8zkKJMFvaLFw5tDD39+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/bp2ipad_Prefix-fwgogqnqpfzhmscehmiyqvekfumq/bp2ipad_Prefix.pch -c /Users/davidbachor/Documents/bp2ipad/main.m -o /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/Objects-normal/armv7/main.o0#
+
+CCompileC build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/Objects-normal/armv7/player.o /Users/davidbachor/Documents/bp2ipad/Classes/player.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s322447703.525984
+e322447703.577951
+r1
+xCompileC
+xbuild/bp2ipad.build/Debug-iphoneos/bp2ipad.build/Objects-normal/armv7/player.o
+x/Users/davidbachor/Documents/bp2ipad/Classes/player.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/davidbachor/Documents/bp2ipad/Classes/player.m322447703#322447703#0(0"0(0#0#53"/Users/davidbachor/Documents/bp2ipad/Classes/player.m8634298784#1714"    cd /Users/davidbachor/Documents/bp2ipad    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/bp2ipad-generated-files.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/bp2ipad-own-target-headers.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/bp2ipad-all-target-headers.hmap -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/bp2ipad-project-headers.hmap -F/Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos -I/Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/include -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/DerivedSources/armv7 -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/DerivedSources -include /var/folders/-A/-A8zkKJMFvaLFw5tDD39+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/bp2ipad_Prefix-fwgogqnqpfzhmscehmiyqvekfumq/bp2ipad_Prefix.pch -c /Users/davidbachor/Documents/bp2ipad/Classes/player.m -o /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/Objects-normal/armv7/player.o0#
+
+CCompileC build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/Objects-normal/armv7/xyButtonAttributes.o /Users/davidbachor/Documents/bp2ipad/Classes/xyButtonAttributes.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s322447703.555728
+e322447703.623273
+r1
+xCompileC
+xbuild/bp2ipad.build/Debug-iphoneos/bp2ipad.build/Objects-normal/armv7/xyButtonAttributes.o
+x/Users/davidbachor/Documents/bp2ipad/Classes/xyButtonAttributes.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/davidbachor/Documents/bp2ipad/Classes/xyButtonAttributes.m322447703#322447703#0(0"0(0#0#65"/Users/davidbachor/Documents/bp2ipad/Classes/xyButtonAttributes.m8632595712#1738"    cd /Users/davidbachor/Documents/bp2ipad    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/bp2ipad-generated-files.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/bp2ipad-own-target-headers.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/bp2ipad-all-target-headers.hmap -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/bp2ipad-project-headers.hmap -F/Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos -I/Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/include -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/DerivedSources/armv7 -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/DerivedSources -include /var/folders/-A/-A8zkKJMFvaLFw5tDD39+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/bp2ipad_Prefix-fwgogqnqpfzhmscehmiyqvekfumq/bp2ipad_Prefix.pch -c /Users/davidbachor/Documents/bp2ipad/Classes/xyButtonAttributes.m -o /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/Objects-normal/armv7/xyButtonAttributes.o0#
+
+CCompileXIB /Users/davidbachor/Documents/bp2ipad/MainWindow.xib
+s322447701.488834
+e322447701.923828
+r1
+xCompileXIB
+x/Users/davidbachor/Documents/bp2ipad/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib322447701#322447701#0(0"0(0#0#51"/Users/davidbachor/Documents/bp2ipad/MainWindow.xib27584749588643956#536"    cd /Users/davidbachor/Documents/bp2ipad    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app/MainWindow.nib /Users/davidbachor/Documents/bp2ipad/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/davidbachor/Documents/bp2ipad/bp2ipadViewController.xib
+s322448747.895662
+e322448749.103293
+r1
+xCompileXIB
+x/Users/davidbachor/Documents/bp2ipad/bp2ipadViewController.xib
+lSLF07#2@36"CompileXIB bp2ipadViewController.xib322448747#322448749#0(0"0(0#0#62"/Users/davidbachor/Documents/bp2ipad/bp2ipadViewController.xib8648899904#558"    cd /Users/davidbachor/Documents/bp2ipad    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app/bp2ipadViewController.nib /Users/davidbachor/Documents/bp2ipad/bp2ipadViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCpResource build/Debug-iphoneos/bp2ipad.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+s322447701.452610
+e322447701.488587
+r1
+xCpResource
+xbuild/Debug-iphoneos/bp2ipad.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist322447701#322447701#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist8637942592#490"    cd /Users/davidbachor/Documents/bp2ipad    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist /Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app0#
+
+CCpResource build/Debug-iphoneos/bp2ipad.app/bp.sqlite bp.sqlite
+s322447701.490343
+e322447701.493906
+r1
+xCpResource
+xbuild/Debug-iphoneos/bp2ipad.app/bp.sqlite
+xbp.sqlite
+lSLF07#2@14"Copy bp.sqlite322447701#322447701#0(0"0(0#0#46"/Users/davidbachor/Documents/bp2ipad/bp.sqlite8639680768#447"    cd /Users/davidbachor/Documents/bp2ipad    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/davidbachor/Documents/bp2ipad/bp.sqlite /Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app0#
+
+CCpResource build/Debug-iphoneos/bp2ipad.app/footballgrass.jpg footballgrass.jpg
+s322447701.489879
+e322447701.493511
+r1
+xCpResource
+xbuild/Debug-iphoneos/bp2ipad.app/footballgrass.jpg
+xfootballgrass.jpg
+lSLF07#2@22"Copy footballgrass.jpg322447701#322447701#0(0"0(0#0#54"/Users/davidbachor/Documents/bp2ipad/footballgrass.jpg8640204896#455"    cd /Users/davidbachor/Documents/bp2ipad    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/davidbachor/Documents/bp2ipad/footballgrass.jpg /Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app0#
+
+CGenerateDSYMFile /Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app.dSYM /Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app/bp2ipad
+s322451327.291675
+e322451327.329540
+r1
+xGenerateDSYMFile
+x/Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app.dSYM
+x/Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app/bp2ipad
+lSLF07#2@95"GenerateDSYMFile build/Debug-iphoneos/bp2ipad.app.dSYM build/Debug-iphoneos/bp2ipad.app/bp2ipad322451327#322451327#0(0"0(0#0#77"/Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app/bp2ipad8655955616#356"    cd /Users/davidbachor/Documents/bp2ipad    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app/bp2ipad -o /Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app.dSYM0#
+
+CLd /Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app/bp2ipad normal armv7
+s322451326.300749
+e322451327.290019
+r1
+xLd
+x/Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app/bp2ipad
+xnormal
+xarmv7
+lSLF07#2@82"Link /Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app/bp2ipad322451326#322451327#0(0"0(0#0#0"8652708864#824"    cd /Users/davidbachor/Documents/bp2ipad    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos -F/Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos -filelist /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/Objects-normal/armv7/bp2ipad.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -lsqlite3.0 -o /Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app/bp2ipad0#
+
+CProcessInfoPlistFile /Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app/Info.plist bp2ipad-Info.plist
+s322447701.467368
+e322447701.488777
+r1
+xProcessInfoPlistFile
+x/Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app/Info.plist
+xbp2ipad-Info.plist
+lSLF07#2@26"Process bp2ipad-Info.plist322447701#322447701#0(0"0(0#0#55"/Users/davidbachor/Documents/bp2ipad/bp2ipad-Info.plist8635773920#554"    cd /Users/davidbachor/Documents/bp2ipad    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility bp2ipad-Info.plist -genpkginfo /Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app/ResourceRules.plist -o /Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app/Info.plist0#
+
+CProcessPCH /var/folders/-A/-A8zkKJMFvaLFw5tDD39+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/bp2ipad_Prefix-fwgogqnqpfzhmscehmiyqvekfumq/bp2ipad_Prefix.pch.gch bp2ipad_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s322447702.750721
+e322447703.460739
+r1
+xProcessPCH
+x/var/folders/-A/-A8zkKJMFvaLFw5tDD39+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/bp2ipad_Prefix-fwgogqnqpfzhmscehmiyqvekfumq/bp2ipad_Prefix.pch.gch
+xbp2ipad_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile bp2ipad_Prefix.pch322447702#322447703#0(0"0(0#0#55"/Users/davidbachor/Documents/bp2ipad/bp2ipad_Prefix.pch8642788224#1602"    cd /Users/davidbachor/Documents/bp2ipad    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/bp2ipad-generated-files.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/bp2ipad-own-target-headers.hmap -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/bp2ipad-all-target-headers.hmap -iquote /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/bp2ipad-project-headers.hmap -F/Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos -I/Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/include -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/DerivedSources/armv7 -I/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/DerivedSources -c /Users/davidbachor/Documents/bp2ipad/bp2ipad_Prefix.pch -o /var/folders/-A/-A8zkKJMFvaLFw5tDD39+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/bp2ipad_Prefix-fwgogqnqpfzhmscehmiyqvekfumq/bp2ipad_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/davidbachor/Library/MobileDevice/Provisioning Profiles/4FDC23B0-0BD2-4C92-A2C7-A5A937D2A6B3.mobileprovision" /Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app/embedded.mobileprovision
+r0
+
+CProcessProductPackaging "/Users/davidbachor/Library/MobileDevice/Provisioning Profiles/55678E32-4298-4960-AD63-0F588D609B67.mobileprovision" /Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app/embedded.mobileprovision
+s322447704.228497
+e322447704.229770
+r1
+xProcessProductPackaging
+x/Users/davidbachor/Library/MobileDevice/Provisioning Profiles/55678E32-4298-4960-AD63-0F588D609B67.mobileprovision
+x/Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app/embedded.mobileprovision
+lSLF07#2@198"ProcessProductPackaging "/Users/davidbachor/Library/MobileDevice/Provisioning Profiles/55678E32-4298-4960-AD63-0F588D609B67.mobileprovision" build/Debug-iphoneos/bp2ipad.app/embedded.mobileprovision322447704#322447704#0(0"0(0#0#94"/Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app/embedded.mobileprovision8634128832#425"    cd /Users/davidbachor/Documents/bp2ipad    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/davidbachor/Library/MobileDevice/Provisioning Profiles/55678E32-4298-4960-AD63-0F588D609B67.mobileprovision" -o /Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/bp2ipad.xcent
+s322447704.232040
+e322447704.233208
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/bp2ipad.xcent
+lSLF07#2@175"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/bp2ipad.xcent322447704#322447704#0(0"0(0#0#99"/Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/bp2ipad.xcent8635071392#428"    cd /Users/davidbachor/Documents/bp2ipad    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/davidbachor/Documents/bp2ipad/build/bp2ipad.build/Debug-iphoneos/bp2ipad.build/bp2ipad.xcent0#
+
+CTouch /Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app
+s322451327.329711
+e322451327.331687
+r1
+xTouch
+x/Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app
+lSLF07#2@75"Touch /Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app322451327#322451327#0(0"0(0#0#0"8635259904#260"    cd /Users/davidbachor/Documents/bp2ipad    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/davidbachor/Documents/bp2ipad/build/Debug-iphoneos/bp2ipad.app0#
+
